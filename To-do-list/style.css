@@ -1,12 +1,54 @@
 @charset "UTF-8";
 
 body{
-    background-image: linear-gradient(to left,#3D79F2 40%, #4BA4F2);
+    background-image: linear-gradient(to left,#4AA0F7 30%, #5ECEFE);
 }
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: black;
     text-align: center;
     font-size: 45px;
+    margin-bottom: 50px;
+    
 }
+
+.add{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+
+.inputs{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: rgb(243, 243, 243);
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
+
+.things li{
+    padding-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin: 50px 0;
+    text-align: center;
+    margin-left: 0px;
+    display: inline;
+}
+
+hr{
+    margin-left: 0;
+    margin-right: 0;
+}
+
