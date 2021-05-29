@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to left,#3D79F2 40%, #4BA4F2);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
